@@ -1,0 +1,2 @@
+Requires python
+Requires matplotlib, spacy, re libraries
